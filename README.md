@@ -1,0 +1,2 @@
+## Matplotlib
+Repository on Matplotlib containing basic examples of plot graphs. This repository was created to help beginners understand and use Matplotlib, one of the most popular data visualization libraries in Python. It includes various practical examples covering everything from line and scatter plots to histograms and bar charts. This resource is believed to be extremely useful for the community of developers and data analysts looking to enhance their data visualization skills.
